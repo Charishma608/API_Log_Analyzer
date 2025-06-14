@@ -1,0 +1,17 @@
+{
+  "name": "api-log-analyzer",
+  "version": "1.0.0",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "moment": "^2.30.1",
+    "multer": "^2.0.1"
+  }
+}
